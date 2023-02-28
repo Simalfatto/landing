@@ -1,0 +1,12 @@
+.btn-banner {
+  background-color: rgb(135, 217, 135);
+  padding: 20px;
+  color: white;
+  border-radius: 40px;
+  display: inline-block;
+  transition: .3s ease;
+}
+
+.btn-banner:hover {
+  background-color:rgb(78, 212, 78);
+}

@@ -1,0 +1,23 @@
+.cards {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card {
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(128, 128, 128, 0.2);
+  padding: 25px;
+}
+
+.card p {
+  font-weight: lighter;
+  color: rgb(159, 159, 159)
+}
+
+.card h3 {
+  font-size: 18px;
+}
+
+.card img {
+  width: 150px;
+}
